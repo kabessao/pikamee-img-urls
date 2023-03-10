@@ -17,6 +17,6 @@ To download everything I used curl like so:
 
 that way all the images are writen like: 
 
-`` 1,2,3,4,5```
+```1,2,3,4,5```
 
 I have not specified the extensions on this command, because some are png and some are jpeg, and since linux doesn't care about file extensions I didn't bother
