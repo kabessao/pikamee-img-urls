@@ -7,6 +7,7 @@ This repo does not contain any of her Members Only posts and it was taken whilst
 ### COMMANDS USED 
 
 I used the following command in linux to record my clipboard into a file, that way I can do it faster
+
 ```while : ; do  sleep .5; TMP="$(xclip -o)"; [[ "$TMP" != "$OLD" ]] && echo $TMP >> output.txt; OLD="$TMP" ; done```
 
 Afterwards I used this one to fix the ending of every url to put a ```=s0``` so that it returns the best quality possible of each image
