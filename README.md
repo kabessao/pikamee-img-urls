@@ -1,5 +1,7 @@
 The urls in ths repo are for all of the img content Pikamee has posted in the community tab, and they are already set to take the best quality possible (using ```=s0```)
 
+they are ordered by time of post, so from top to bottom is first to latest
+
 This repo does not contain any of her Members Only posts and it was taken whilst logged off to prevent that.
 
 ### COMMANDS USED 
